@@ -284,7 +284,9 @@ section {
     margin-top: 30px;
 }
 .row h5{
-    margin-top: 5px;
+    font-size: larger;
+    font-weight: bolder;
+    margin-top: 30px;
 }
 .row img {
     width: 100%;
